@@ -1,0 +1,10 @@
+title: Conny WH Yu
+logo: /assets/profile.jpg
+author: Conny
+description: >- 
+  <br>🎓 Structural biology and bioinformatics <br>| 🧑🏻‍🔬 10+ years at the bench <br>| 🧑🏻‍💻 Data curation | 🎯 Translate protein structure into functional understanding
+baseurl: "" 
+url: "https://connyyu.github.io"
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
