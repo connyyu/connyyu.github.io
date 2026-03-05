@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-01-27T17:21:58+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Conny WH Yu</title><subtitle>&lt;br&gt;🎓 Structural biology and bioinformatics &lt;br&gt;| 🧑🏻‍🔬 10+ years at the bench &lt;br&gt;| 🧑🏻‍💻 Data curation | 🎯 Translate protein structure into functional understanding</subtitle><author><name>Conny</name></author><entry><title type="html">Learning markdown</title><link href="http://localhost:4000/2026/01/24/my-first-blog.html" rel="alternate" type="text/html" title="Learning markdown" /><published>2026-01-24T00:00:00+00:00</published><updated>2026-01-24T00:00:00+00:00</updated><id>http://localhost:4000/2026/01/24/my-first-blog</id><content type="html" xml:base="http://localhost:4000/2026/01/24/my-first-blog.html"><![CDATA[<h2 id="text-formatting">Text formatting</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-03-05T14:24:23+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Conny WH Yu</title><subtitle>&lt;br&gt;🎓 Structural biology and bioinformatics &lt;br&gt;| 🧑🏻‍🔬 10+ years at the bench &lt;br&gt;| 🧑🏻‍💻 Data curation | 🎯 Translate protein structure into functional understanding</subtitle><author><name>Conny</name></author><entry><title type="html">From Mad2 to data curation</title><link href="http://localhost:4000/2026/02/17/curation.html" rel="alternate" type="text/html" title="From Mad2 to data curation" /><published>2026-02-17T00:00:00+00:00</published><updated>2026-02-17T00:00:00+00:00</updated><id>http://localhost:4000/2026/02/17/curation</id><content type="html" xml:base="http://localhost:4000/2026/02/17/curation.html"><![CDATA[<p>This is the figure that I spent the most time on during my years of academic research. It is part of a long-time collaboration with Elyse Fischer and David Barford.</p>
+
+<p><img src="/assets/blog/2026-02-01-1.png" alt="Mad2 Supp Fig 1" />
+<em>Source: <a href="https://doi.org" target="_blank">DOI:10.1002/pro.70099</a></em></p>
+
+<p>I was working on <a href="https://www.uniprot.org/uniprotkb/Q13257/entry" target="_blank">Mad2</a>, an extraordinary protein that has seen decades of research into its metamorphic structure (<em>yes, this protein changes form!</em> ). I spent many hours carefully reviewing the literature to identify differences in the constructs, structures, and methodologies used in each study. In the process, I realised that this summary itself was a valuable piece of work that should be shared with the field.</p>
+
+<p>My goal was to distill years of structural data into a single figure, highlighting both the insights and limitations of each structure. It had to capture the complexity of Mad2’s metamorphic transitions without overwhelming the readers. I also wanted it to serve as a reliable map, allowing readers to trace information back to its original source.</p>
+
+<p>Looking back, I am still incredibly proud of this figure. And without realizing it at the time, it was my first curation project.</p>]]></content><author><name>Conny</name></author><category term="science" /><summary type="html"><![CDATA[This is the figure that I spent the most time on during my years of academic research. It is part of a long-time collaboration with Elyse Fischer and David Barford.]]></summary></entry><entry><title type="html">Learning markdown</title><link href="http://localhost:4000/2026/01/24/markdown.html" rel="alternate" type="text/html" title="Learning markdown" /><published>2026-01-24T00:00:00+00:00</published><updated>2026-01-24T00:00:00+00:00</updated><id>http://localhost:4000/2026/01/24/markdown</id><content type="html" xml:base="http://localhost:4000/2026/01/24/markdown.html"><![CDATA[<p>First time building a blog with markdown. Here’s my cheatsheet.</p>
+
+<h2 id="text-formatting">Text formatting</h2>
 
 <p><strong>Bold</strong><br />
 <em>Italic</em><br />
@@ -10,8 +21,10 @@
 
 <h2 id="task-lists">Task lists</h2>
 
-<p>[x] Done<br />
-[ ] To do</p>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Done</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />To do</li>
+</ul>
 
 <hr />
 
@@ -34,4 +47,4 @@
       <td>December</td>
     </tr>
   </tbody>
-</table>]]></content><author><name>Conny</name></author><category term="webuilding" /><summary type="html"><![CDATA[Text formatting]]></summary></entry></feed>
+</table>]]></content><author><name>Conny</name></author><category term="webdesign" /><summary type="html"><![CDATA[First time building a blog with markdown. Here’s my cheatsheet.]]></summary></entry></feed>
