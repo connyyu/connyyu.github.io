@@ -4,7 +4,9 @@ author: Conny
 description: >- 
   <br>🎓 Structural biology and bioinformatics <br>| 🧑🏻‍🔬 10+ years at the bench <br>| 🧑🏻‍💻 Data curation | 🎯 Translate protein structure into functional understanding
 baseurl: "" 
+repository: connyyu/connyyu.github.io
 url: "https://connyyu.github.io"
+baseurl: ""
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
