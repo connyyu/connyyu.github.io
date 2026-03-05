@@ -37,7 +37,7 @@ Visual Studio Code extension that provides language support for reading and edit
   <a href="https://github.com/connyyu/TM_annotations" target="_blank">
   TM annotations tool
   </a>
-  <a href="https://github.com/connyyu/TM_annotations" target="_blank">
+  <a href="https://tm-annotations.streamlit.app/" target="_blank">
   <img
     src="https://img.shields.io/badge/Open%20in-Streamlit-DB5E5E?logo=streamlit&logoColor=white"
     alt="Open in Streamlit"
