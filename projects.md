@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Projects
+permalink: /projects/
 ---
 
 <h2>Ongoing projects</h2>
