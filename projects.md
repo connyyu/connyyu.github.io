@@ -24,6 +24,15 @@ Streamlit app with a collection of tools to navigate proteins structures.
 ---
 
 <h2>Previous projects</h2>
+
+<h3>
+  <a href="https://github.com/connyyu/pymol_sifts" target="_blank">
+  PyMOL plugin for automatic protein labelling
+  </a>
+</h3>
+<p>
+PyMOL plugin that automatically label proteins chains by their UniProt IDs using their SIFTS mappings.</p>
+
 <h3>
   <a href="https://github.com/connyyu/uniprot-vscode" target="_blank">
   UniProt-VScode
